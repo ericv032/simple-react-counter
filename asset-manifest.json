@@ -1,5 +1,5 @@
 {
-  "main.css": "/simple-react-counter/static/css/main.6b8be019.chunk.css",
+  "main.css": "/simple-react-counter/static/css/main.8e35abc8.chunk.css",
   "main.js": "/simple-react-counter/static/js/main.ec7f138b.chunk.js",
   "main.js.map": "/simple-react-counter/static/js/main.ec7f138b.chunk.js.map",
   "runtime~main.js": "/simple-react-counter/static/js/runtime~main.1d14972d.js",
@@ -7,7 +7,7 @@
   "static/js/2.aa7a0768.chunk.js": "/simple-react-counter/static/js/2.aa7a0768.chunk.js",
   "static/js/2.aa7a0768.chunk.js.map": "/simple-react-counter/static/js/2.aa7a0768.chunk.js.map",
   "index.html": "/simple-react-counter/index.html",
-  "precache-manifest.5e27c158f41197a815131e950fcbed4d.js": "/simple-react-counter/precache-manifest.5e27c158f41197a815131e950fcbed4d.js",
+  "precache-manifest.717224a994cd65b12dacb2a303917b50.js": "/simple-react-counter/precache-manifest.717224a994cd65b12dacb2a303917b50.js",
   "service-worker.js": "/simple-react-counter/service-worker.js",
-  "static/css/main.6b8be019.chunk.css.map": "/simple-react-counter/static/css/main.6b8be019.chunk.css.map"
+  "static/css/main.8e35abc8.chunk.css.map": "/simple-react-counter/static/css/main.8e35abc8.chunk.css.map"
 }
