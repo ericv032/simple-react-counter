@@ -16,7 +16,7 @@ class Counter extends Component {
              <span>
                  <button className="reset" onClick={this.reset}>Reset</button>
              </span>
-             <small>This project was developed using <a href="https://reactjs.org/">React</a>. See the code on <a href="https://github.com/ericv032/gh-profile-card" target="new">Github.</a></small>
+             <small>This project was developed using <a href="https://reactjs.org/">React</a>. See the code on <a href="https://github.com/ericv032/simple-react-counter/" target="new">Github.</a></small>
              </div>
          </div>
 
